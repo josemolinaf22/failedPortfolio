@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/josemolinaf22.github.io/josemolina.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/josemolinaf22.github.io/josemolina.github.io/static/js/main.0b1eeae2.js",
+    "main.css": "/josemolinaf22.github.io/josemolina.github.io/static/css/main.c24b1349.css",
+    "main.js": "/josemolinaf22.github.io/josemolina.github.io/static/js/main.fe345794.js",
     "static/js/787.be739e9d.chunk.js": "/josemolinaf22.github.io/josemolina.github.io/static/js/787.be739e9d.chunk.js",
-    "static/media/logo.svg": "/josemolinaf22.github.io/josemolina.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nightCrawl.png": "/josemolinaf22.github.io/josemolina.github.io/static/media/nightCrawl.459c36d9f03fcec732cc.png",
+    "static/media/JoseDMolinaResume.pdf": "/josemolinaf22.github.io/josemolina.github.io/static/media/JoseDMolinaResume.12adb58e8e3d60e98b93.pdf",
+    "static/media/profile-img.jpeg": "/josemolinaf22.github.io/josemolina.github.io/static/media/profile-img.bd651f1e78f423b4436a.jpeg",
+    "static/media/home-main.svg": "/josemolinaf22.github.io/josemolina.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/josemolinaf22.github.io/josemolina.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/apexLegends.png": "/josemolinaf22.github.io/josemolina.github.io/static/media/apexLegends.bf5e843dd6437853398e.png",
+    "static/media/logo.png": "/josemolinaf22.github.io/josemolina.github.io/static/media/logo.c3125fa104217c18b913.png",
+    "static/media/pre.svg": "/josemolinaf22.github.io/josemolina.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/josemolinaf22.github.io/josemolina.github.io/index.html",
-    "main.073c9b0a.css.map": "/josemolinaf22.github.io/josemolina.github.io/static/css/main.073c9b0a.css.map",
-    "main.0b1eeae2.js.map": "/josemolinaf22.github.io/josemolina.github.io/static/js/main.0b1eeae2.js.map",
+    "main.c24b1349.css.map": "/josemolinaf22.github.io/josemolina.github.io/static/css/main.c24b1349.css.map",
+    "main.fe345794.js.map": "/josemolinaf22.github.io/josemolina.github.io/static/js/main.fe345794.js.map",
     "787.be739e9d.chunk.js.map": "/josemolinaf22.github.io/josemolina.github.io/static/js/787.be739e9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0b1eeae2.js"
+    "static/css/main.c24b1349.css",
+    "static/js/main.fe345794.js"
   ]
 }
