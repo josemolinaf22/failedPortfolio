@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/josemolina.github.io/static/css/main.1c95a787.css",
-    "main.js": "/josemolina.github.io/static/js/main.ca5d0558.js",
+    "main.js": "/josemolina.github.io/static/js/main.5ab92f24.js",
     "static/js/787.be739e9d.chunk.js": "/josemolina.github.io/static/js/787.be739e9d.chunk.js",
     "static/media/nightCrawl.png": "/josemolina.github.io/static/media/nightCrawl.459c36d9f03fcec732cc.png",
     "static/media/JoseDMolinaResume.pdf": "/josemolina.github.io/static/media/JoseDMolinaResume.12adb58e8e3d60e98b93.pdf",
@@ -13,11 +13,11 @@
     "static/media/pre.svg": "/josemolina.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/josemolina.github.io/index.html",
     "main.1c95a787.css.map": "/josemolina.github.io/static/css/main.1c95a787.css.map",
-    "main.ca5d0558.js.map": "/josemolina.github.io/static/js/main.ca5d0558.js.map",
+    "main.5ab92f24.js.map": "/josemolina.github.io/static/js/main.5ab92f24.js.map",
     "787.be739e9d.chunk.js.map": "/josemolina.github.io/static/js/787.be739e9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c95a787.css",
-    "static/js/main.ca5d0558.js"
+    "static/js/main.5ab92f24.js"
   ]
 }
