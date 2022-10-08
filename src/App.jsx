@@ -37,8 +37,8 @@ function App() {
         <Routes>
           <Route path="/josemolina.github.io" element={<Home />} />
           <Route path="/project" element={<Projects />} />
-          <Route path="/josemolina.github.io/about" element={<About />} />
-          <Route path="/josemolina.github.io/resume" element={<Resume />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
         <Footer />
