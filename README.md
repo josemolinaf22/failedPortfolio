@@ -61,5 +61,5 @@ You will find all the components used and you can edit your information accordin
 
 
 
-You can fork this repo to modify by following this link to the original creater: <br> <a href='https://github.com/soumyajit4419/Portfolio' />. Thanks!
+You can fork this repo to modify by following this link to the original creater: <br> <a href='https://github.com/soumyajit4419/Portfolio'>Click me </a>. Thanks!
 
